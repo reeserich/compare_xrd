@@ -1,0 +1,22 @@
+      Sylvite
+Diffraction data computed using the structure from the paper listed below,
+along with the cell parameters refined from the powder pattern R050166
+      Walker D, Verma P K, Cranswick L M D, Jones R L, Clark S M, Buhre S
+      American Mineralogist 89 (2004) 204-210
+      Halite-sylvite thermoelasticity
+      Sample: msl515031, T = 25 C, P = 0.0 kbar, cell volume = 248.61 ang**3
+
+      CELL PARAMETERS:   6.292188   6.292188   6.292188   90.00000   90.00000   90.00000
+      SPACE GROUP: Fm3m
+      X-RAY WAVELENGTH:     1.541838
+               2-THETA      INTENSITY    D-SPACING   H   K   L
+                28.38        100.00        3.1461    2   0   0
+                40.55         63.49        2.2246    2   2   0
+                50.22         19.50        1.8164    2   2   2
+                58.67          8.08        1.5730    4   0   0
+                66.42         20.12        1.4070    4   2   0
+                73.74         13.71        1.2844    4   2   2
+                87.69          3.96        1.1123    4   4   0
+                87.69          3.96        1.1123    4   4   0
+       XPOW Copyright 1993 Bob Downs, Ranjini Swaminathan and Kurt Bartelmehs
+  For reference, see Downs et al. (1993) American Mineralogist 78, 1104-1107.

@@ -1,0 +1,62 @@
+One big peak
+
+* [Water Droplet Dynamics on a Hydrophobic Surface in Relation to the Self-Cleaning of Environmental Dust](https://pubpeer.com/publications/CC446BE21C681295489BCC2FC63590), *Scientific Reports*, Figure 2
+* [A water droplet-cleaning of a dusty hydrophobic surface: influence of dust layer thickness on droplet dynamics](https://pubpeer.com/publications/FDBED9BA943AB6592A90515B105A4C), *Scientific Reports*, Figure 2C
+* [Environmental mud adhesion on optical glass surface: Effect of mud drying temperature on surface properties](https://pubpeer.com/publications/43BF1EBC9E41FF84024DA99E1C6B55), *Solar Energy*, Figure 2A, lower pattern
+* [Environmental dust removal from inclined hydrophobic glass surface: avalanche influence on dynamics of dust particles](https://pubpeer.com/publications/20D6D9AE628D0F5D1D93ADA65C4924), *RSC Advances*, Figure 4
+* [Environmental dust effects on aluminum surfaces in humid air ambient](https://pubpeer.com/publications/AFED7C13921E5F1A98FED2F555FD27), *Scientific Reports*, Figure 3
+* [Characterization of Environmental Dust in the Dammam Area and Mud After-Effects on Bisphenol-A Polycarbonate Sheets](https://pubpeer.com/publications/D9F598890068CC7057872F95284141), *Scientific Reports*, Figure 2
+* [Droplet fluid infusion into a dust layer in relation to self-cleaning](https://pubpeer.com/publications/AD0FD66D738098E91103054443AF21), *RSC Advances*, Figure 2A
+* [Water droplet on inclined dusty hydrophobic surface: influence of droplet volume on environmental dust particles removal](https://pubpeer.com/publications/5BAA08402EC704BF093E178B25AB33), *RSC Advances*, Figure 7
+* [Environmental dust repelling from hydrophobic and hydrophilic surfaces under vibrational excitation](https://pubpeer.com/publications/7CFE4CAB9DA4A3E3B6A9AA8CF796A4), *Scientific Reports*, Figure 2D
+* [Laser texturing of Inconel 718 alloy surface: Influence of environmental dust in humid air ambient](https://pubpeer.com/publications/9D9A62A98D5D34A50108448F452A34), *Optics and Laser Technology*, Figure 4
+* [Laser gas assisted texturing and formation of nitride and oxynitride compounds on alumina surface: Surface response to environmental dust](https://pubpeer.com/publications/57C11ABA89A123B4F09590C725AFE5), *Optics and Lasers in Engineering*, Figure 6
+* [Solar energy harvesting and self-cleaning of surfaces by an impacting water droplet](https://pubpeer.com/publications/03226308B560144EFC34C98FC47598), *International Journal of Energy Research*, Figure 4
+* [Characteristics of a solar selective absorber surface subjected to environmental dust in humid air ambient](https://pubpeer.com/publications/FC9CD9C28AC4B2D98685C82F18FAEE), *Solar Energy Materials and Solar Cells*, Figure 3
+* [Environmental Dust Particles Repelling from A Hydrophobic Surface under Electrostatic Influence](https://pubpeer.com/publications/128F8BC1011DB400679601C56B87E3), *Scientific Reports*, Figure 8
+* [Laser gas assisted nitriding and sol–gel coating Of alumina surfaces: Effect Of environmental dust on surfaces](https://pubpeer.com/publications/E5202157504885DA3CA01DBCE9A272), *Surface and Coatings Technology*, Figure 9
+* [Laser fabricated tungsten oxide surface for solar energy harvesting and dust effects](https://pubpeer.com/publications/FB7A9695036EEEC43837D0820B694D), *Solar Energy Materials and Solar Cells* Figure 10
+* [Dust removal from a hydrophobic surface by rolling fizzy water droplets](https://pubpeer.com/publications/FBF456E9222578DA435EAB00C182DF), *RSC Advances*, Figure 1C
+* [Laser processing of Ti6Al4V alloy: wetting state of surface and environmental dust effects](https://pubpeer.com/publications/1C8332BC9B1602B999B07DD9BA77E6), *Heliyon*, Figure 9
+* [Silicone oil impregnated nano silica modified glass surface and influence of environmental dust particles on optical transmittance](https://pubpeer.com/publications/B93638A8EF45326CC89204214DFE67), *RSC Advances*, Figure 2
+* [Effect of mud drying temperature on surface characteristics of a polycarbonate PV protective cover](https://pubpeer.com/publications/345A204AF61793F42EDE8D26F429C5), *Solar Energy*, Figure 2
+* [Mechanics of dust removal from rotating disk in relation to self-cleaning applications of PV protective cover](https://pubpeer.com/publications/4D4DFD8BC6E605BA6FFF4B159A5E39), *Solar Energy*, Figure 5
+* [Flow Field Inside a Sessile Droplet on a Hydrophobic Surface in Relation to Self Cleaning Applications of Dust Particles](https://pubpeer.com/publications/F5D64D59C7B4EE370407A75B475D10), *Journal of Heat Transfer*, Figure 8
+* [Internal fluidity of a sessile droplet with the presence of particles on a hydrophobic surface](https://pubpeer.com/publications/6A73406D8F772331DCE9F331293B22), *Numerical Heat Transfer, Part A: Applications*, Figure 10
+* [Carbonated water droplets on a dusty hydrophobic surface](https://pubpeer.com/publications/09BEDB0402F59EB627B2F05301BCBB), *Soft Matter*, Figure 3
+* [Why environmental dust influences solar energy harvesting](https://pubpeer.com/publications/B045A723856F184E1091A119FFC75E), *International Journal of Energy Research*, Figure 1B
+* [Dust mitigation strategies concerning solar energy applications: A comprehensive review](https://pubpeer.com/publications/4ADD414D9DFD471789EC8C19BFAA13), *Solar Energy*, Figure 4
+
+Captions:
+X-ray diffractogram of dust particles
+X-ray diffractograms of (a) dust particles
+X-ray diffractogram of the dust particles
+X-ray data of dust particles
+X-ray diffraction pattern of dust particles
+X-ray diffractogram of dust
+
+
+
+
+Three big peaks, fuzzier
+
+* [Stretchable Hydrophobic Surfaces and Self-Cleaning Applications](https://pubpeer.com/publications/1CEB5F482CE0285D81311C40454AA3), *Scientific Reports*, Figure 4
+* [Self-cleaning of a hydrophobic surface by a rolling water droplet](https://pubpeer.com/publications/27E7F7FD39AD9E9326756A97ABF44D), *Scientific Reports*, Figure 2
+* [Chemo-Mechanical Characteristics of Mud Formed from Environmental Dust Particles in Humid Ambient Air](https://pubpeer.com/publications/58A042B5671055EDCEDC3E73C6D13F), *Scientific Reports*, Figure 3
+* [Analysis of environmental dust and mud adhesion on aluminum surface in relation to solar energy harvesting](https://pubpeer.com/publications/DDA6BE95FE8A1300A49CAFEF220047), *Solar Energy*, Figure 4
+
+Captions:
+X-ray diffraction of dust particles
+X-ray diffractogram for the dust particles
+
+Two big peaks, highest is SiO2
+* [Dust mitigation from inclined hydrophobic and hydrophilic surfaces under electrostatic repulsion](https://pubpeer.com/publications/626C661BA2544CB7957FCE7AEA7660), *Journal of Electrostatics*, Figure 3C
+* [A novel method for dust mitigation from PV cell surfaces](https://pubpeer.com/publications/17352F76EF0DDBD95300AC0ABB4822), *Solar Energy*, Figure 4C
+* [Avalanche effect for chemically modified dust mitigation from surfaces](https://pubpeer.com/publications/C76259FA3DB1218479DFDAF7D1A28A), *Scientific Reports*. Figure 3
+* [Impacting Water Droplets Can Alleviate Dust from Slanted Hydrophobic Surfaces](https://doi.org/10.1021/acs.langmuir.1c00436), *Langmuir*, Figure 2C
+* [Environmental dust repelling from hydrophilic/hydrophobic surfaces under sonic excitations](https://pubpeer.com/publications/95D2C4B5500DB75EB4329ACF8062B7), *Scientific Reports*, Figure 6
+* [Adhesion characteristics of solution treated environmental dust](https://pubpeer.com/publications/87E1C90D90C0DA689E82362EAC8F57), *Scientific Reports*, Figure 3A
+
+
+Two bigs peaks, highest is orthoenstatite
+* [Effect of environmental dust particles on laser textured yttria-stabilized zirconia surface in humid air ambient](https://pubpeer.com/publications/054E50213D9808EE93E743ABD48DF4), *Optics and Laser Technology*, Figure 5
