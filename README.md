@@ -1,0 +1,1 @@
+For comparing published XRD patterns to patterns from curated databases (such as RRUFF and the ICDD PDF).
