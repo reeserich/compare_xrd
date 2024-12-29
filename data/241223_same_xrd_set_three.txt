@@ -1,0 +1,28 @@
+This article is one of at least 6 articles with at least one common co-author that all use the same XRD pattern to describe environmental dust, most of which have identical peak labels. These articles are:
+
+1. [Dust mitigation from inclined hydrophobic and hydrophilic surfaces under electrostatic repulsion](https://pubpeer.com/publications/626C661BA2544CB7957FCE7AEA7660), *Journal of Electrostatics*, Figure 3C
+2. [A novel method for dust mitigation from PV cell surfaces](https://pubpeer.com/publications/17352F76EF0DDBD95300AC0ABB4822), *Solar Energy*, Figure 4C
+3. [Avalanche effect for chemically modified dust mitigation from surfaces](https://pubpeer.com/publications/C76259FA3DB1218479DFDAF7D1A28A), *Scientific Reports*. Figure 3
+4. [Impacting Water Droplets Can Alleviate Dust from Slanted Hydrophobic Surfaces](https://doi.org/10.1021/acs.langmuir.1c00436), *Langmuir*, Figure 2C
+5. [Environmental dust repelling from hydrophilic/hydrophobic surfaces under sonic excitations](https://pubpeer.com/publications/95D2C4B5500DB75EB4329ACF8062B7), *Scientific Reports*, Figure 6
+6. [Adhesion characteristics of solution treated environmental dust](https://pubpeer.com/publications/87E1C90D90C0DA689E82362EAC8F57), *Scientific Reports*, Figure 3A
+
+Here is the version presented in Figure X of this article. 
+
+
+
+Most of the labeled peaks in this XRD pattern are likely not attributable to the mineral with which they are labeled. 
+
+Below, I compare the version of this plot shown in Figure 3 of the [third article on the list above](https://pubpeer.com/publications/C76259FA3DB1218479DFDAF7D1A28A) to the expected peaks for these minerals (for minerals in this list with a corresponding XRD pattern in the [RRUFF database](https://rruff.info/)). These images can be reproduced with the code [here](https://github.com/reeserich/compare_xrd).
+
+![file](https://pubpeer.com/storage/image-1735500059756.png)
+![file](https://pubpeer.com/storage/image-1735500074384.png)
+![file](https://pubpeer.com/storage/image-1735500077366.png)
+![file](https://pubpeer.com/storage/image-1735500081022.png)
+![file](https://pubpeer.com/storage/image-1735500089794.png)
+![file](https://pubpeer.com/storage/image-1735500094171.png)
+![file](https://pubpeer.com/storage/image-1735500099038.png)
+![file](https://pubpeer.com/storage/image-1735500103732.png)
+
+Could the authors provide the raw data for this pattern and clarify how they labeled peaks as attributable to specific minerals?
+

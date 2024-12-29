@@ -60,3 +60,4 @@ Two big peaks, highest is SiO2
 
 Two bigs peaks, highest is orthoenstatite
 * [Effect of environmental dust particles on laser textured yttria-stabilized zirconia surface in humid air ambient](https://pubpeer.com/publications/054E50213D9808EE93E743ABD48DF4), *Optics and Laser Technology*, Figure 5
+* [Silicone oil impregnated nano silica modified glass surface and influence of environmental dust particles on optical transmittance](https://pubpeer.com/publications/B93638A8EF45326CC89204214DFE67), *RSC Advances*, Figure 2

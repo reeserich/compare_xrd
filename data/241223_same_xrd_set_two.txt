@@ -1,0 +1,28 @@
+This article is one of at least 3 articles with at least one common co-author that all use the same XRD pattern to describe environmental dust, most of which have identical peak labels. These articles are:
+
+1. [Stretchable Hydrophobic Surfaces and Self-Cleaning Applications](https://pubpeer.com/publications/1CEB5F482CE0285D81311C40454AA3), *Scientific Reports*, Figure 4
+2. [Self-cleaning of a hydrophobic surface by a rolling water droplet](https://pubpeer.com/publications/27E7F7FD39AD9E9326756A97ABF44D), *Scientific Reports*, Figure 2
+3. [Chemo-Mechanical Characteristics of Mud Formed from Environmental Dust Particles in Humid Ambient Air](https://pubpeer.com/publications/58A042B5671055EDCEDC3E73C6D13F), *Scientific Reports*, Figure 3
+
+Here is the version presented in Figure X of this article. 
+
+
+
+This plot has many issues.
+
+1. "Quarz" should read "Quartz".
+2. "Arhdride" should read "Anhydrite".
+3. "Dolamid" should read "Dolomite".
+4. Most of the labeled peaks in this XRD pattern likely not attributable to the mineral with which they are labeled. 
+
+Below, I compare the version of this plot shown in Figure 3 of the [third article on the list above](https://pubpeer.com/publications/58A042B5671055EDCEDC3E73C6D13F) to the expected peaks for these minerals (for minerals in this list with a corresponding XRD pattern in the [RRUFF database](https://rruff.info/)). These images can be reproduced with the code [here](https://github.com/reeserich/compare_xrd).
+
+![file](https://pubpeer.com/storage/image-1735322514000.png)
+![file](https://pubpeer.com/storage/image-1735322524039.png)
+![file](https://pubpeer.com/storage/image-1735322532160.png)
+![file](https://pubpeer.com/storage/image-1735322541139.png)
+![file](https://pubpeer.com/storage/image-1735322544439.png)
+![file](https://pubpeer.com/storage/image-1735322587098.png)
+![file](https://pubpeer.com/storage/image-1735322616940.png)
+
+Could the authors provide the raw data for this pattern and clarify how they labeled peaks as attributable to specific minerals?
